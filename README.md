@@ -23,11 +23,11 @@ El Sistema de Información Perinatal (SIP) es un estándar de OPS para el regist
 + [MAS INFO](https://docs.google.com/document/d/1LQYWznqznqEr6SOr2KeE9AnDkt6unW239ZaOy1tNshQ/edit#heading=h.mdx9b8m4o8bo)
 
 ## COMO RESOLVER LOS DESAFIOS:  :nerd_face:
-**Definir la pregunta de interés para el grupo:** Justificarla con búsqueda bibliográfica y conocimiento de expertos
-**Definir las variables necesarias para responderla:** Conocimiento de los expertos- búsqueda bibliográfica
-**Revisar Diccionario de Datos y Definir las tablas y/o campos de interés:** Con ayuda de los mentores
-**Definir la herramienta:** R-Phyton-SQL-MSExcel, de acuerdo al expertise de los integrantes
-**Definir el método que se usará para resolver el desafío:** Estadística descriptiva-Análisis multivariados-Modelos de aprendizaje Automático Supervisados o No Supervisados-etc.
++ **Definir la pregunta de interés para el grupo:** Justificarla con búsqueda bibliográfica y conocimiento de expertos
++ **Definir las variables necesarias para responderla:** Conocimiento de los expertos- búsqueda bibliográfica
++ **Revisar Diccionario de Datos y Definir las tablas y/o campos de interés:** Con ayuda de los mentores
++ **Definir la herramienta:** R-Phyton-SQL-MSExcel, de acuerdo al expertise de los integrantes
++ **Definir el método que se usará para resolver el desafío:** Estadística descriptiva-Análisis multivariados-Modelos de aprendizaje Automático Supervisados o No Supervisados-etc.
 
 ## CONTEXTO:🏥 ⚕️
 El Sistema de Información Perinatal (SIP) fue creado por el Centro Latinoamericano de Perinatología – Mujer de la Salud y Reproductiva (CLAP/SMR) de la OPS en 1983.
