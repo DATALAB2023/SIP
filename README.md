@@ -2,6 +2,7 @@
 
 # DATATHON: DESAFIO SIP - El Parto en Datos
 *Desafío del Sistema de Información Perinatal*
++ [MAS INFO](https://docs.google.com/document/d/1LQYWznqznqEr6SOr2KeE9AnDkt6unW239ZaOy1tNshQ/edit#heading=h.mdx9b8m4o8bo)
 
 ## DESCRIPCIÓN:📊
 El Sistema de Información Perinatal (SIP) es un estándar de OPS para el registro clínico de la atención en servicios de salud dirigidos a la mujer, embarazo, parto y recién nacido. 
@@ -72,9 +73,11 @@ Para el análisis de los datos se recomienda utilizar alguna de las siguientes p
 
 ## REPOSITORIO DE DATOS: 📁
 A los fines de este desafío se ponen a disposición:
-+ [DICCIONARIO DE DATOS](https://docs.google.com/spreadsheets/d/18WEPSB4G5-JD08jXMSJTWliXJ-k4sQjkl84W0-4qGBg/edit#gid=1514749921)
++ [DICCIONARIO DE DATOS](https://docs.google.com/document/d/1LQYWznqznqEr6SOr2KeE9AnDkt6unW239ZaOy1tNshQ/edit#heading=h.mdx9b8m4o8bo)
 
-+ [TABLAS Y REPOSITORIO DE DATOS:](https://drive.google.com/drive/)
++ [TABLAS Y REPOSITORIO DE DATOS:](https://drive.google.com/file/d/1UzORQT1C6jnmzCXtDAYgmuLcCUQp46H1/view)
+
++ [Acuerdo de Uso de Datos:](https://docs.google.com/document/d/1MDfF8Ew9lH8LbKyA7DTjGl9ZMKyBvKxB/edit)
 
 ## BIBLIOGRAFIA COMPLEMENTARIA 📚
 
@@ -99,3 +102,5 @@ Libreriás de Phyton más utilizadas en Ciencia de datos y documentación:
 5-Plotly. [https://plotly.com/python-api-reference/]. Libreria de visualización
 
 6- Scikit learn.[https://scikit-learn.org/stable/]. Libreria para aprendizaje automático ( regresión, clasificación, clustering, preprocesamiento, etc)
+
+7- Recursos utiles en R. [https://posit.co/resources/cheatsheets/]
